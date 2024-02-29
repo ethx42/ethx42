@@ -1,24 +1,24 @@
-Hi there 👋! I'm Santiago aka Yaaqob, an innovative Interactive Artist and Software Engineer with 6+ years of experience in the tech industry. My journey encompasses a blend of art and technology, pushing the boundaries of visual computing, web development, and more recently, generative AI and Large Language Models (LLM).
+👋 Hey there! I'm Santiago, also known as Yaaqob. Blending Interactive Art and Software Engineering, I've spent over 6 years pushing the boundaries of visual computing, web innovation, and lately, Generative AI and Large Language Models (LLM).
 
-## About Me 🌱
+## Dive into My World 🌱
 
-- **Current Explorations**: I'm delving into the fascinating world of **Generative AI and LLM**, creating experiments that explore new forms of communication and creativity. My project "Unstructured Murmur" showcases my passion for **immersive installations**, combining interactive sculptures, dynamic projections, and enveloping soundscapes.
+- **What's New**: Currently exploring the captivating universe of **Generative AI and LLM**. "Unstructured Murmur" is my latest venture into **immersive installations**, merging interactive sculptures, projections, and soundscapes.
+- **Tech Craftsmanship**: A journey from coding for global tech powerhouses to crafting **interactive art** that resonates and captivates.
+- **Art & Tech Synergy**: Advocating for a world where technology enhances our human experience, making art more interactive and experiences more meaningful.
 
-- **Professional Background**: With a rich history as a Software Engineer, I've contributed to international companies, developing sophisticated solutions and innovative applications. My expertise extends to **interactive art** and **web development**, crafting experiences that engage and inspire.
+## Let's Create Together 👯
 
-- **Art Meets Technology**: I'm committed to creating spaces where technology amplifies the human experience, blending interactive art with digital innovation. My work invites users to explore, interact, and reflect, bridging the gap between the tangible and the digital.
+I'm on the hunt for like-minded artists, coders, and innovators. If you're passionate about pushing the limits of creativity and technology, let's connect!
 
-## Collaboration 👯
+## Join the Conversation 💬
 
-I'm on the lookout for creative minds and tech enthusiasts to collaborate and innovate. Whether you're into creativity, videography, sound art, development, interface design or anything in between, let's connect and create something extraordinary.
+I thrive on your thoughts, feedback, and ideas. Let's delve into the boundless possibilities of art and technology together.
 
-## Engage with Me 💬
+## Stay Connected 📫
 
-Explore my projects, dive into the experiments, and let's discuss the endless possibilities of art and technology. Your feedback, ideas, and collaborations are what drive me forward.
+Join me on this creative voyage:
+- [GitHub](https://github.com/ethx42) - Dive into my projects where art, technology, and emotion intersect.
+- [Instagram](https://www.instagram.com/dirty_n_epic/) - Get a glimpse of my visual storytelling.
+- [X](https://twitter.com/0x2Aa) - Follow my musings and updates.
 
-## Connect with Me 📫
-
-Follow my journey and connect:
-- [GitHub](https://github.com/ethx42) - Dive deeper into my repositories and explore the intersection of art, technology, and emotion.
-- [Instagram](https://www.instagram.com/dirty_n_epic/)
-- [X](https://twitter.com/0x2Aa)
+Here's to making the digital realm a bit more human, one creation at a time.
